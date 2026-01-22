@@ -3,7 +3,7 @@
 This folder contains the **cleaned and analysis-ready dataset** used for the AQI Power BI dashboard.
 
 ## File Included
-- `aqi_cleaned.csv`
+- `day_wise_aqi_data_cleaned.xlxs`
 
 This CSV was **directly loaded into Power BI** and used as the primary fact table for all visuals and measures.
 
